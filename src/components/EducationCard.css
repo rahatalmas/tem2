@@ -1,0 +1,24 @@
+.education-card{
+   border: 1px solid white;
+   border-radius: 15px;
+   padding: 20px;
+}
+
+.e-c-h{
+    margin: 3px 0px;
+    font-size: 25px;
+}
+.e-c-p{
+    margin: 3px 0px;
+}
+
+.education-card:hover{
+   border: 1px solid  #28e98c;
+
+   cursor: pointer;
+}
+.education-c-moreInfo{
+   display: inline-block;
+   color: #28e98c;
+   ;
+}

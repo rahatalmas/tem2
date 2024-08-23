@@ -1,0 +1,22 @@
+.thesisCard-container{
+    padding: 20px 25px;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+.thesis-title{
+    padding-top: 15px;
+}
+.thesis-span{
+    color: #28e98c;
+}
+.thesis-span-btn{
+    color: #28e98c;
+    cursor: pointer;
+}
+.details-section{
+    display: none;
+}
+.details-section-show{
+    display: block;
+}

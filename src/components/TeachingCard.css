@@ -1,0 +1,60 @@
+.teaching-section{ 
+    display: flex;
+    flex-direction: column;
+}
+
+.teaching-card{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height: 150px;
+    border: 1px solid whitesmoke;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 10px 10px;
+    margin-left: 100px;
+  }
+  
+  .t-c-image-container{
+    flex:1;
+  }
+  
+  .t-c-img{
+     width: 150px;
+     height: 150px;
+     object-fit: cover;
+  }
+  .t-c-header{
+     display: flex;
+     justify-content: space-between;
+  }
+
+  .t-c-info{
+     flex: 3; 
+  }
+  
+  .t-c-title{
+
+  }
+  .t-c-organization{
+ 
+  }
+  .t-c-para{
+
+  }
+  
+  .t-c-date{
+  
+  }
+  
+  .teaching-card:hover{
+     border:1px solid #28e98c;
+     cursor: pointer;
+  }
+
+
+.plusBtn{
+    margin-right: 15px;
+    font-size: large;
+ }

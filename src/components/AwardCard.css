@@ -1,0 +1,35 @@
+.award-card{
+    border-radius: 10px;
+    margin: 10px 0px;
+    padding: 20px;
+    border:1px solid white;
+}
+.award-card-row{
+    display: flex;
+    align-items: center;
+}
+.award-img-container{
+    flex: 1;
+    padding-right: 10px;
+}
+.award-img{
+    width: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+.award-info{
+    flex: 4;
+}
+.award-title{
+    font-size: 25px;
+    margin: 0;
+}
+.award-data-level{
+   margin: 0;
+}
+.award-activities{
+    margin: 0px;
+}
+.award-card:hover{
+    border: 1px solid #28e98c;
+}

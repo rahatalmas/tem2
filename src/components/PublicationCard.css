@@ -1,0 +1,28 @@
+.publication-card{
+    border-radius: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 10px;
+    margin: 15px 0px;
+}
+.p-image-n-info{
+    display: flex;
+    align-items: center;
+    height: 200px;
+}
+.p-img-container{
+    flex: 1;
+}
+.p-img{
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+.p-short-info{
+    flex: 3;
+}
+
+.p-atr{
+    font-weight: bolder;
+    color: #28e98c;
+}

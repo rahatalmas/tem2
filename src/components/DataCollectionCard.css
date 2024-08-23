@@ -1,0 +1,40 @@
+
+.data-collection-card{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  height: 200px;
+  border: 1px solid whitesmoke;
+  border-radius: 15px;
+  padding: 10px;
+  margin: 10px 0px;
+}
+
+.d-c-image-container{
+  flex:1;
+}
+.d-c-img{
+   width: 100%;
+   height: 200px;
+   object-fit: cover;
+}
+.d-c-info{
+   flex: 3;
+}
+
+.d-c-title{
+
+}
+
+.d-c-para{
+
+}
+
+.d-c-date{
+
+}
+
+.data-collection-card:hover{
+   border:1px solid #28e98c;
+   cursor: pointer;
+}

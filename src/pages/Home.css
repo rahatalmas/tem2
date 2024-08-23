@@ -1,0 +1,35 @@
+@keyframes fadeOut{
+    from{opacity: 1;}
+    to{opacity: 0;}
+}
+
+
+.home-container{
+    
+}
+.h-p{
+    margin: 10px 0px;
+    text-align: justify;
+    animation: fadeOut 2s forwards;
+    animation-timeline:scroll();
+}
+
+.h-s{
+    color: #28e98c;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.research-interest{
+    color: white;
+    border:2px solid #28e98c;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 5px;
+    display: inline-block;
+}
+.r-i-keys{
+    display: inline-block;
+    margin-left: 5px;
+}
