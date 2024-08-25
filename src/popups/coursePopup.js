@@ -26,10 +26,11 @@ const CoursePopUp = ({popState,off,data}) => {
                     </div>
                     <div className="popUpContentDetails">
                       <h1>{data.title}</h1>
-                      <p>{data.institution}</p>
-                      <p>{data.platform}</p>
-                      <p>{data.finalGrade}</p>
-                      <p>{data.completionDate}</p>
+                      <p>Institution: {data.institution}</p>
+                      <p>Platform: {data.platform}</p>
+                      <p>Final Grade: {data.finalGrade}</p>
+                      <p>Completion Date: {data.completionDate}</p>
+                      <p>Description</p>
                       <p>{data.description}</p>
                     </div>
                 </div>

@@ -20,6 +20,7 @@ export const researchProjects = [
         ],
         images: ["./assets/fgs/dc (1).JPG","./assets/fgs/dc (2).JPG","./assets/fgs/dc (3).JPG","./assets/fgs/dc (4).JPG","./assets/fgs/dc (5).JPG","./assets/fgs/dc (6).JPG","./assets/fgs/dc (7).JPG","./assets/fgs/dc (8).JPG","./assets/fgs/dc (9).JPG","./assets/fgs/dc (10).JPG","./assets/fgs/dc (11).JPG","./assets/fgs/dc (12).JPG"]
     },
+    
     {
         title: "Public Perceptions of Nuclear Energy Among Nuclear and Non-Nuclear Sector Workers in Bangladesh",
         institution: "Funded by Dr. Md. Shafiqul Islam, Professor, Department of Nuclear Engineering, Dhaka University",
@@ -38,7 +39,7 @@ export const researchProjects = [
             "Public Engagement",
             "Communication"
         ],
-        images: []
-    },
+        images: ["./assets/nuclear.jpg"]
+    }
     
 ];

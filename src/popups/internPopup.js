@@ -15,7 +15,7 @@ const InternPopUp = ({popState,off,data}) => {
             <div className="popUpMainContainer">
                 <div className="popUpMain">
                       <div className="popUpImg">
-                      <img src="./assets/Online Course- HTML.jpg" className="popUpContentImg" />
+                      <img src={data.images[0]} className="popUpContentImg" />
                       <div>
                         <div className="indicator-circle-container">
                             <div className="indicator-circle"></div>

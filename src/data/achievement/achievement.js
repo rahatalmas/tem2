@@ -11,5 +11,6 @@ export const dukeOfEdinburghAward = {
         skillsDevelopment: "Enhanced proficiency in Python programming through self-study and practical projects.",
         expedition: "Completed a hiking expedition in Sylhet, demonstrating teamwork and navigation skills."
     },
-    personalImpact: "Receiving the Duke of Edinburgh Bronze Award has significantly contributed to my personal development, fostering leadership, resilience, and a commitment to community service."
+    personalImpact: "Receiving the Duke of Edinburgh Bronze Award has significantly contributed to my personal development, fostering leadership, resilience, and a commitment to community service.",
+    images: ["./assets/DOE.png"]
 };
