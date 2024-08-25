@@ -14,7 +14,7 @@ export const courses = [
             "Forms",
             "Embedding Multimedia"
         ],
-        images: ["./assets/certificates/html.jpg"]
+        images: ["./assets/umichlogo.png","./assets/certificates/html.jpg"]
     },
     {
         title: "Programming for Everybody",
@@ -28,6 +28,6 @@ export const courses = [
             "Control Structures: Using conditionals (if statements) and loops (for and while loops).",
             "Functions: Defining and using functions to create reusable code."
         ],
-        images: ["./assets/certificates/python.jpg"]
+        images: ["./assets/umichlogo.png","./assets/certificates/python.jpg"]
     }
 ];

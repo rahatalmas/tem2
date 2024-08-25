@@ -13,7 +13,7 @@ export const trainings = [
             "Importance and Research opportunities in Healthcare and Agriculture Domain using Machine Learning & Deep Learning.",
             "Different techniques to improve model’s accuracy."
         ],
-        images: []
+        images: ["./assets/certificates/aihitech.jpeg"]
     },
     {
         title: "Big Data",

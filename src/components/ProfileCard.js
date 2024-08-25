@@ -8,7 +8,7 @@ const ProfileCard = () =>{
                 <h1 className='p-h-1'>Tariqul Islam</h1> <button className='cv-btn'>Cv</button>
             </div>
             <div className='p-c-image-container'>
-                <img className='p-c-image' src='https://i.pinimg.com/564x/65/17/e5/6517e52a015c88d3b47beb60d461120a.jpg' alt='Profile Image'/>
+                <img className='p-c-image' src='./assets/Donuts.gif' alt='Profile Image'/>
             </div>
             <div className='p-c-details'>
                 <h3>Research Interest</h3>

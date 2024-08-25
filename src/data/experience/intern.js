@@ -21,7 +21,7 @@ export const internships = [
             "Teamwork",
             "Technical Documentation"
         ],
-        images: []
+        images: ["./assets/imun (1).jpg"]
     },
     {
         title: "C.A Intern",
