@@ -21,7 +21,7 @@ export const internships = [
             "Teamwork",
             "Technical Documentation"
         ],
-        images: ["./assets/imun (1).jpg"]
+        images: ["./assets/hyperappoint.jpg"]
     },
     {
         title: "Campus Ambassador Intern",
@@ -44,7 +44,7 @@ export const internships = [
             "Feedback Provision",
             "Peer Training"
         ],
-        images: ["./assets/imun (1).jpg"]
-    },
+        images: ["./assets/certificates/imun.jpg","./assets/imun (1).jpg"]
+    }
     
 ];
