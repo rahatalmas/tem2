@@ -24,7 +24,7 @@ export const internships = [
         images: ["./assets/imun (1).jpg"]
     },
     {
-        title: "C.A Intern",
+        title: "Campus Ambassador Intern",
         company: "International Model United Nations",
         duration: "August 26, 2021 – September 30, 2021",
         location: "Remote",
@@ -44,7 +44,7 @@ export const internships = [
             "Feedback Provision",
             "Peer Training"
         ],
-        images: []
+        images: ["./assets/imun (1).jpg"]
     },
     
 ];
